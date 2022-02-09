@@ -1,0 +1,41 @@
+body{
+    height:100vh;
+    background: #1F2937;
+    /*background:linear-gradient(rgb(53, 99, 105),rgb(48,62,143)); */
+    color:rgb(255, 255, 255);
+    
+}
+
+.about{
+    
+    font-size: 35px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+.intro{
+    text-shadow: 1px 1px 2px rgb(197, 197, 197);
+}
+
+
+
+.footer{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-size:20px;
+
+}
+
+.links li{
+    list-style-type: none;
+    float:right;
+}
+
+.links a{
+    color:rgb(255, 255, 255);
+    font-weight:500;
+    font-size:30px;
+    text-decoration: none;
+    padding:10px;
+    
+}
